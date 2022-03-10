@@ -1,0 +1,28 @@
+09-03-2022 10:44:11 INFO  BaseClass:19 - Gillette as opened
+09-03-2022 10:44:11 INFO  HomePage:19 - Clicking on the styling link in footer
+09-03-2022 10:44:12 INFO  HomePage:19 - styling page as not opened
+09-03-2022 10:44:12 INFO  HomePage:19 - Checking if styling artical contains Facial Hair Styles: The Anchor Beard
+09-03-2022 10:44:22 INFO  HomePage:19 - Facial Hair Styles: The Anchor Beard is not in the styling artical
+09-03-2022 10:44:30 INFO  BaseClass:19 - Gillette as opened
+09-03-2022 10:44:30 INFO  HomePage:19 - Hovering on 'Products' and clicking on 'MOCH3'
+09-03-2022 10:44:32 INFO  HomePage:19 - Clicking page as opened
+09-03-2022 10:44:32 INFO  HomePage:19 - Checking if our porducts list contains Gillette MACH3 Turbo
+09-03-2022 10:44:32 INFO  HomePage:19 - Gillette MACH3 Turbo is in the 'our products' list
+09-03-2022 10:44:38 INFO  BaseClass:19 - Gillette as opened
+09-03-2022 10:44:38 INFO  HomePage:19 - Searching for razor
+09-03-2022 10:44:42 INFO  ProductPage:19 - Checking if the name of the search heading contains 'razor'
+09-03-2022 10:44:42 INFO  ProductPage:19 - The name of the search heading contains 'razor'
+09-03-2022 10:51:59 INFO  BaseClass:19 - Gillette as opened
+09-03-2022 10:51:59 INFO  HomePage:19 - Clicking on the styling link in footer
+09-03-2022 10:52:00 INFO  HomePage:19 - styling page as not opened
+09-03-2022 10:52:00 INFO  HomePage:19 - Checking if styling artical contains Facial Hair Styles: The Anchor Beard
+09-03-2022 10:52:11 INFO  HomePage:19 - Facial Hair Styles: The Anchor Beard is not in the styling artical
+09-03-2022 10:52:17 INFO  BaseClass:19 - Gillette as opened
+09-03-2022 10:52:17 INFO  HomePage:19 - Hovering on 'Products' and clicking on 'MOCH3'
+09-03-2022 10:52:19 INFO  HomePage:19 - Clicking page as opened
+09-03-2022 10:52:19 INFO  HomePage:19 - Checking if our porducts list contains Gillette MACH3 Turbo
+09-03-2022 10:52:19 INFO  HomePage:19 - Gillette MACH3 Turbo is in the 'our products' list
+09-03-2022 10:52:25 INFO  BaseClass:19 - Gillette as opened
+09-03-2022 10:52:25 INFO  HomePage:19 - Searching for razor
+09-03-2022 10:52:29 INFO  ProductPage:19 - Checking if the name of the search heading contains 'razor'
+09-03-2022 10:52:29 INFO  ProductPage:19 - The name of the search heading contains 'razor'
